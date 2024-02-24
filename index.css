@@ -1,0 +1,1308 @@
+html {
+  font-size: 62.5%;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+ul,
+li {
+  list-style: none;
+}
+
+input {
+  border: none;
+}
+
+body {
+  width: 144rem;
+}
+
+.home-P1H {
+  width: 100%;
+  overflow: hidden;
+  position: relative;
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  background-color: #ffffff;
+}
+
+.auto-group-rykh-PvP {
+  margin-bottom: 8.4482rem;
+  width: 100%;
+  height: 89.6559rem;
+  position: relative;
+  background-color: #f4f4f4;
+  flex-shrink: 0;
+}
+
+.solo-beats-xEj {
+  position: absolute;
+  font-size: 21.2rem;
+  color: #ffffff;
+  width: 130rem;
+  height: 31.8rem;
+  left: 6.7rem;
+  top: 29.3079rem;
+  font-weight: 900;
+  line-height: 1.5;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500s-when-an-unknown-printer-took-a-galley-of-type-njZ {
+  color: #333333;
+  top: 41.8864rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  font-family: Poppins, "Source Sans Pro";
+  width: 61.5rem;
+  height: 14.4rem;
+  position: absolute;
+  left: 8.0614rem;
+}
+.rectangle-4-bBD {
+  top: 0;
+  background-color: #333333;
+  width: 7rem;
+  height: 89.6559rem;
+  position: absolute;
+  left: 0;
+}
+.rectangle-13-iWj {
+  height: 89.6559rem;
+  position: absolute;
+  left: 78.2939rem;
+  top: 0;
+  background-color: #ffffff;
+  width: 27.2061rem;
+}
+.highest-qualitywireless-headphone-2XR {
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  height: 14.4rem;
+  left: 8.0614rem;
+  top: 24.0079rem;
+  width: 49.3rem;
+  position: absolute;
+}
+.buy-now-5kb {
+  top: 60.2701rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #333333;
+  white-space: nowrap;
+  width: 23.3rem;
+  height: 4.2rem;
+  position: absolute;
+  left: 8.0614rem;
+  font-size: 2.8rem;
+  font-family: Poppins, "Source Sans Pro";
+}
+.clean-beats-NUo {
+  width: 23.4rem;
+  left: 8.7114rem;
+  top: 1.5511rem;
+  font-size: 4.8rem;
+  color: #000000;
+  font-family: Autography, "Source Sans Pro";
+  height: 6.1rem;
+  position: absolute;
+  font-weight: 400;
+  line-height: 1.2575;
+  white-space: nowrap;
+}
+.follow-us-3qq {
+  width: 3.5rem;
+  height: 10.8rem;
+  position: absolute;
+  left: 1.7rem;
+  top: 46.0864rem;
+  line-height: 1.8;
+  font-size: 2rem;
+  font-weight: 400;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+}
+.line-5-Mbd {
+  width: 0rem;
+  height: 0.1rem;
+  position: absolute;
+  left: 3.5rem;
+  top: 56.2749rem;
+  background-color: #ffffff;
+}
+.logos-facebook-fill-eaj {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 42.1079rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.logos-twitter-fill-i4o {
+  object-fit: contain;
+  vertical-align: top;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 38.7079rem;
+}
+.logos-pinterest-fill-RV1 {
+  top: 35.3079rem;
+  object-fit: contain;
+  vertical-align: top;
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2.3rem;
+}
+.logos-instagram-fill-ZLK {
+  height: 2.4rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 31.9079rem;
+  object-fit: contain;
+  vertical-align: top;
+  width: 2.4rem;
+}
+.logos-linkedin-box-fill-Vjm {
+  width: 2.4rem;
+  height: 2.4rem;
+  position: absolute;
+  left: 2.3rem;
+  top: 28.5079rem;
+  object-fit: contain;
+  vertical-align: top;
+}
+.headphone-1-PaF {
+  left: 72.2899rem;
+  top: 14.9079rem;
+  object-fit: cover;
+  vertical-align: top;
+  width: 56.4rem;
+  height: 54.4rem;
+  position: absolute;
+}
+.bar-1-7FM {
+  height: 1.1rem;
+  position: absolute;
+  left: 128.6899rem;
+  top: 4.6902rem;
+  object-fit: cover;
+  vertical-align: top;
+  width: 4.8rem;
+}
+
+.latest-features-BFD {
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-right: 111.5576rem;
+  font-size: 2rem;
+  font-weight: 400;
+  line-height: 1.8;
+  color: #333333;
+}
+.auto-group-fz8x-W2b {
+  flex-direction: column;
+  flex-shrink: 0;
+  box-sizing: border-box;
+  padding: 1.217rem 8.1rem 13.445rem 8rem;
+  width: 100%;
+  align-items: center;
+  display: flex;
+}
+
+.auto-group-gazs-CAK {
+  align-items: center;
+  flex-shrink: 0;
+  margin: 0rem 0rem 5.834rem 0.021rem;
+  width: calc(100% - 0.0212rem);
+  height: 12.8rem;
+  display: flex;
+}
+
+.design-and-built-with-latest-trending-future-technology-FeP {
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+  margin-right: 17.8788rem;
+  max-width: 88.4rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  color: #333333;
+}
+.auto-group-e1kb-MSX {
+  font-weight: 600;
+  justify-content: center;
+  flex-shrink: 0;
+  display: flex;
+  box-sizing: border-box;
+  width: 21.6rem;
+  font-size: 2rem;
+  font-family: Poppins, "Source Sans Pro";
+  color: #333333;
+  white-space: nowrap;
+  align-items: center;
+  border: solid 0.2rem #333333;
+  margin: 2.331rem 0rem 3.269rem 0rem;
+  height: calc(100% - 5.6rem);
+  line-height: 1.5;
+}
+
+.auto-group-ekfv-7KD {
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+  margin: 0rem 0.602rem 4.391rem 0rem;
+  height: 20.7142rem;
+}
+
+.group-3-doM {
+  margin-right: 2.9117rem;
+  width: 40.5984rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.wireless-connection-aTh {
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  margin-bottom: 2.8471rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #333333;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500s-when-an-dgs {
+  margin: 0rem 0rem 2.267rem 0.098rem;
+  max-width: 40.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+}
+.auto-group-y8tq-Rcj {
+  display: flex;
+  align-items: center;
+  margin: 0rem 28.7rem 0rem 0.098rem;
+  width: calc(100% - 28.7984rem);
+}
+
+.learn-more-92w {
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+.systems-arrow-right-line-smZ {
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  width: 2.4rem;
+  height: 2.4rem;
+}
+
+.group-2-1My {
+  flex-shrink: 0;
+  margin-right: 2.5915rem;
+  width: 40.5984rem;
+  height: 100%;
+}
+
+.qualitative-sound-9UB {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  margin-bottom: 2.8471rem;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500s-when-an-HaP {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  margin: 0rem 0rem 2.267rem 0.098rem;
+  max-width: 40.5rem;
+}
+.auto-group-kzp3-gcX {
+  display: flex;
+  align-items: center;
+  margin: 0rem 28.7rem 0rem 0.098rem;
+  width: calc(100% - 28.7984rem);
+}
+
+.learn-more-Cas {
+  font-weight: 600;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-size: 1.6rem;
+}
+.systems-arrow-right-line-Lwy {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.group-1-gW3 {
+  width: 40.5984rem;
+  height: 100%;
+  flex-shrink: 0;
+}
+
+.beautiful-and-modern-design-qNw {
+  font-weight: 600;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  margin-bottom: 2.8471rem;
+  font-size: 2.4rem;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500s-when-an-Ag7 {
+  margin: 0rem 0rem 2.267rem 0.098rem;
+  max-width: 40.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+}
+.auto-group-ztur-c2K {
+  margin: 0rem 28.7rem 0rem 0.098rem;
+  width: calc(100% - 28.7984rem);
+  display: flex;
+  align-items: center;
+}
+
+.learn-more-vHu {
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.systems-arrow-right-line-fWP {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.auto-group-gzet-bew {
+  margin-right: 0.6016rem;
+  height: 20.7142rem;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.group-4-8um {
+  width: 40.5984rem;
+  height: 100%;
+  flex-shrink: 0;
+  margin-right: 2.9117rem;
+}
+
+.high-end-sound-5q1 {
+  white-space: nowrap;
+  margin-bottom: 2.8471rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500s-when-an-nzK {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  margin: 0rem 0rem 2.267rem 0.098rem;
+  max-width: 40.5rem;
+}
+.auto-group-jt2f-39Z {
+  margin: 0rem 28.7rem 0rem 0.098rem;
+  width: calc(100% - 28.7984rem);
+  display: flex;
+  align-items: center;
+}
+
+.learn-more-Ajy {
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.systems-arrow-right-line-uxT {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.group-5-TDH {
+  flex-shrink: 0;
+  margin-right: 2.5915rem;
+  width: 40.5984rem;
+  height: 100%;
+}
+
+.bluetooth-oH9 {
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  margin-bottom: 2.8471rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500s-when-an-BYb {
+  font-family: Poppins, "Source Sans Pro";
+  margin: 0rem 0rem 2.267rem 0.098rem;
+  max-width: 40.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333333;
+}
+.auto-group-jkx9-n2b {
+  margin: 0rem 28.7rem 0rem 0.098rem;
+  width: calc(100% - 28.7984rem);
+  display: flex;
+  align-items: center;
+}
+
+.learn-more-JWj {
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-size: 1.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+.systems-arrow-right-line-PHH {
+  vertical-align: top;
+  flex-shrink: 0;
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+}
+
+.group-6-6Bh {
+  flex-shrink: 0;
+  width: 40.5984rem;
+  height: 100%;
+}
+
+.waterproof-dust-tight-Rzf {
+  margin-bottom: 2.8471rem;
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500s-when-an-Uxw {
+  margin: 0rem 0rem 2.267rem 0.098rem;
+  max-width: 40.5rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+}
+.auto-group-drdh-wbd {
+  margin: 0rem 28.7rem 0rem 0.098rem;
+  width: calc(100% - 28.7984rem);
+  display: flex;
+  align-items: center;
+}
+
+.learn-more-skB {
+  line-height: 1.5;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-size: 1.6rem;
+  font-weight: 600;
+}
+.systems-arrow-right-line-pfR {
+  width: 2.4rem;
+  height: 2.4rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+
+.auto-group-stfy-L7y {
+  margin-bottom: 8.5302rem;
+  width: 100%;
+  height: 100.8rem;
+  position: relative;
+  background-color: #333333;
+  flex-shrink: 0;
+}
+
+.view-specification-GGX {
+  left: 62.7541rem;
+  font-size: 2rem;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  width: 19.7rem;
+  height: 3.6rem;
+  position: absolute;
+  top: 8.5684rem;
+  font-weight: 400;
+  line-height: 1.8;
+  color: #a1a0a1;
+}
+.name-solo-beat-ab12hb-MHy {
+  position: absolute;
+  left: 73.1947rem;
+  color: #f4f4f4;
+  white-space: nowrap;
+  width: 29.8rem;
+  height: 3.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  font-family: Poppins, "Source Sans Pro";
+  display: flex;
+  align-items: baseline;
+  top: 29.346rem;
+  font-size: 2.4rem;
+}
+
+.name-solo-beat-ab12hb-MHy-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+.auto-group-bkvh-VBD {
+  width: 106.6106rem;
+  height: 41.4rem;
+  position: absolute;
+  left: 7.4894rem;
+  top: 35.646rem;
+  display: flex;
+  align-items: center;
+}
+
+.specification-1-C5d {
+  width: 53.4rem;
+  height: 36.3rem;
+  object-fit: cover;
+  vertical-align: top;
+  flex-shrink: 0;
+  margin: 0.1rem 12.305rem 0rem 0rem;
+}
+.auto-group-ovov-Hsm {
+  flex-shrink: 0;
+  width: 33.7053rem;
+  height: 100%;
+}
+
+.auto-group-6kg3-btT {
+  box-sizing: border-box;
+  padding-bottom: 2.7rem;
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+}
+
+.weight-231-g-87h {
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+  align-items: baseline;
+  margin-bottom: 2.7rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f4f4f4;
+  display: flex;
+}
+.weight-231-g-87h-sub-1 {
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  font-size: 2.4rem;
+  font-weight: 600;
+}
+
+.weight-231-g-87h-sub-3 {
+  color: #f4f4f4;
+  font-family: Poppins, "Source Sans Pro";
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.height-72-cm-ynX {
+  align-items: baseline;
+  font-size: 2.4rem;
+  line-height: 1.5;
+  color: #f4f4f4;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  font-weight: 400;
+  flex-shrink: 0;
+}
+
+.height-72-cm-ynX-sub-1 {
+  font-family: Poppins, "Source Sans Pro";
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+}
+
+.height-72-cm-ynX-sub-3 {
+  font-weight: 600;
+  line-height: 1.5;
+  color: #f4f4f4;
+  font-family: Poppins, "Source Sans Pro";
+  font-size: 2.4rem;
+}
+
+.auto-group-9mfd-hrw {
+  margin-bottom: 2.7rem;
+  width: 100%;
+  height: 3.6rem;
+  display: flex;
+  align-items: center;
+}
+
+.available-color--3fu {
+  display: flex;
+  align-items: baseline;
+  line-height: 1.5;
+  font-weight: 400;
+  color: #f4f4f4;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-size: 2.4rem;
+}
+
+.available-color--3fu-sub-1 {
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.auto-group-gs3m-Mq1 {
+  box-sizing: border-box;
+  padding: 0.6rem 0rem 0.6rem 0.405rem;
+  height: 100%;
+  display: flex;
+  column-gap: 1.2rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.ellipse-1-sYT {
+  width: 2.4rem;
+  height: 2.4rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #a53c43;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+}
+.ellipse-2-jaf {
+  flex-shrink: 0;
+  width: 2.4rem;
+  height: 2.4rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #192861;
+  border-radius: 1.2rem;
+}
+.ellipse-3-UHM {
+  background-color: #c58a84;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+  width: 2.4rem;
+  height: 2.4rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+}
+.ellipse-4-Cz3 {
+  box-sizing: border-box;
+  background-color: #ecc305;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+  width: 2.4rem;
+  height: 2.4rem;
+  border: solid 0.1rem #ffffff;
+}
+
+.type-wireless-bluetooth-Y2K {
+  white-space: nowrap;
+  align-items: baseline;
+  margin-bottom: 2.7rem;
+  font-size: 2.4rem;
+  line-height: 1.5;
+  color: #f4f4f4;
+  font-family: Poppins, "Source Sans Pro";
+  font-weight: 400;
+  display: flex;
+}
+
+.type-wireless-bluetooth-Y2K-sub-1 {
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  font-size: 2.4rem;
+}
+
+.battery-life-2-hour-QTq {
+  font-family: Poppins, "Source Sans Pro";
+  display: flex;
+  font-size: 2.4rem;
+  color: #f4f4f4;
+  line-height: 1.5;
+  white-space: nowrap;
+  align-items: baseline;
+  margin-bottom: 2.7rem;
+  font-weight: 400;
+}
+.battery-life-2-hour-QTq-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+.battery-100amh-B7D {
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f4f4f4;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  display: flex;
+  margin-bottom: 2.7rem;
+  align-items: baseline;
+}
+.battery-100amh-B7D-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+.dimensions-21-x-4-x-27-cm-1M9 {
+  display: flex;
+  align-items: baseline;
+  font-size: 2.4rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #f4f4f4;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+}
+
+.dimensions-21-x-4-x-27-cm-1M9-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+.auto-group-q8tp-d7d {
+  box-sizing: border-box;
+  padding: 13.2rem 0rem 25.8rem 1.2rem;
+  height: 100%;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.ellipse-5-WBR {
+  box-sizing: border-box;
+  background-color: #000000;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+  margin-right: 1.2rem;
+  width: 2.4rem;
+  height: 2.4rem;
+  border: solid 0.1rem #ffffff;
+}
+.ellipse-6-pxo {
+  height: 2.4rem;
+  border: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  background-color: #ffffff;
+  border-radius: 1.2rem;
+  flex-shrink: 0;
+  width: 2.4rem;
+}
+
+.connectors-micro-usb-battery-charge--krT {
+  display: flex;
+  left: 73.1947rem;
+  top: 79.746rem;
+  font-weight: 400;
+  color: #f4f4f4;
+  line-height: 1.5;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  align-items: baseline;
+  width: 51.4rem;
+  height: 3.6rem;
+  position: absolute;
+  font-size: 2.4rem;
+}
+
+.connectors-micro-usb-battery-charge--krT-sub-1 {
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+}
+
+.operating-distance-5-meter-ucs {
+  position: absolute;
+  top: 86.046rem;
+  font-size: 2.4rem;
+  font-weight: 400;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  width: 34.3rem;
+  height: 3.6rem;
+  left: 73.1947rem;
+  line-height: 1.5;
+  color: #f4f4f4;
+  display: flex;
+  align-items: baseline;
+}
+
+.operating-distance-5-meter-ucs-sub-1 {
+  font-size: 2.4rem;
+  font-weight: 600;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+}
+
+.solo-beat-specification-Qi3 {
+  font-family: Poppins, "Source Sans Pro";
+  height: 6.4rem;
+  position: absolute;
+  left: 44.1rem;
+  font-weight: 600;
+  color: #ffffff;
+  width: 55.8rem;
+  top: 13.6908rem;
+  font-size: 4.8rem;
+  line-height: 1.3333333333;
+  white-space: nowrap;
+}
+
+.exchange-with-your-old-oneand-get-20-flat-discount-fts {
+  font-size: 5.6rem;
+  font-weight: 600;
+  line-height: 1.5;
+  flex-shrink: 0;
+  margin-bottom: 2.8591rem;
+  max-width: 77.9rem;
+  text-align: center;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+}
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-industrys-standard-dummy-text-ever-since-the-1500s-when-an-unknown-printer-took-a-galley-of-type-and-scrambled-it-to-make-a-type-specimen-book-mS7 {
+  font-size: 2rem;
+  line-height: 1.8;
+  color: #333333;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+  max-width: 103.8rem;
+  text-align: center;
+  font-weight: 400;
+  margin-bottom: 6.3889rem;
+}
+.auto-group-atuv-PyH {
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  display: flex;
+  background-color: #333333;
+  margin: 0rem 62.4rem 8.931rem 62.4rem;
+  width: calc(100% - 124.8rem);
+  height: 5.7472rem;
+  font-weight: 600;
+  white-space: nowrap;
+  flex-shrink: 0;
+  font-size: 2rem;
+  justify-content: center;
+  align-items: center;
+}
+.auto-group-pvep-o1R {
+  width: 100%;
+  height: 101.8rem;
+  position: relative;
+  background-color: #333333;
+  flex-shrink: 0;
+}
+
+.contact-us-WwR {
+  font-weight: 400;
+  line-height: 1.8;
+  height: 3.6rem;
+  position: absolute;
+  top: 8.4463rem;
+  font-size: 2rem;
+  white-space: nowrap;
+  width: 12.7rem;
+  left: 65.65rem;
+  color: #a1a0a1;
+  font-family: Poppins, "Source Sans Pro";
+}
+.auto-group-bhcb-S4P {
+  position: absolute;
+  left: 8rem;
+  top: 73.7339rem;
+  display: flex;
+  align-items: flex-start;
+  width: 125.0451rem;
+  height: 18.5215rem;
+}
+
+.auto-group-kqqd-vkF {
+  margin-right: 9.2676rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.clean-beats-Gp7 {
+  line-height: 1.2575;
+  color: #ffffff;
+  font-family: Autography, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-bottom: 3.4rem;
+  font-size: 4.8rem;
+  font-weight: 400;
+}
+.copyright-2023clean-beats-by-awaiken-DDZ {
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+  max-width: 19.2rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+}
+
+.auto-group-qvhm-8LX {
+  margin: 0.1rem 11.472rem 0rem 0rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.contact-Ttb {
+  font-size: 2rem;
+  font-weight: 600;
+  line-height: 1.8;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin: 0rem 0rem 1.767rem 0.1rem;
+}
+.clearbeats-incabc-aptsandy-ut-84091-15471-888-659-8244emaildomainnamecom-aCX {
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+  max-width: 21.2rem;
+}
+
+.auto-group-is1d-FpT {
+  margin-top: 0.393rem;
+  display: flex;
+  flex-direction: column;
+  flex-shrink: 0;
+}
+
+.auto-group-hs6x-arj {
+  margin: 0rem 0rem 2.745rem 0.009rem;
+  width: 55.1rem;
+  height: 3.6rem;
+  position: relative;
+  flex-shrink: 0;
+}
+
+.home-features-specfication-terms-privacy-policy-erb {
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  position: absolute;
+  left: 0;
+  top: 0;
+  font-size: 1.6rem;
+  line-height: 2.25;
+  width: 55.1rem;
+  height: 3.6rem;
+  font-weight: 400;
+  color: #ffffff;
+}
+.item--ZTm {
+  position: absolute;
+  font-weight: 400;
+  white-space: nowrap;
+  width: 0.5rem;
+  height: 3.6rem;
+  font-size: 1.6rem;
+  line-height: 2.25;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  left: 6.1118rem;
+  top: 0;
+}
+.item--49d {
+  width: 0.5rem;
+  height: 3.6rem;
+  left: 16.9603rem;
+  top: 0;
+  font-weight: 400;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  position: absolute;
+  font-size: 1.6rem;
+  line-height: 2.25;
+  color: #ffffff;
+}
+.item--Yab {
+  white-space: nowrap;
+  height: 3.6rem;
+  position: absolute;
+  font-weight: 400;
+  line-height: 2.25;
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  width: 0.5rem;
+  left: 31.9018rem;
+  top: 0;
+  font-size: 1.6rem;
+}
+.item--UDM {
+  font-weight: 400;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  width: 0.5rem;
+  height: 3.6rem;
+  position: absolute;
+  left: 40.4518rem;
+  top: 0;
+  font-size: 1.6rem;
+  line-height: 2.25;
+  color: #ffffff;
+}
+
+.lorem-ipsum-is-simply-dummy-text-of-the-printing-and-typesetting-industry-lorem-ipsum-has-been-the-BdZ {
+  font-family: Poppins, "Source Sans Pro";
+  flex-shrink: 0;
+  margin: 0rem 0rem 3.383rem 0.006rem;
+  max-width: 59.7rem;
+  font-size: 1.6rem;
+  font-weight: 400;
+  line-height: 1.5;
+  color: #ffffff;
+}
+.auto-group-6alx-RXu {
+  display: flex;
+  column-gap: 1.4rem;
+  align-items: center;
+  flex-shrink: 0;
+}
+
+.auto-group-thg3-Ze7 {
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  width: 3.6rem;
+  height: 3.6rem;
+}
+.auto-group-2rdm-79q {
+  vertical-align: top;
+  flex-shrink: 0;
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: contain;
+}
+.auto-group-pr1z-Sxo {
+  width: 3.6rem;
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+}
+.auto-group-anxp-kyV {
+  height: 3.6rem;
+  object-fit: contain;
+  vertical-align: top;
+  flex-shrink: 0;
+  width: 3.6rem;
+}
+
+.auto-group-jw91-fqZ {
+  position: absolute;
+  left: 29.8917rem;
+  top: 27.2898rem;
+  display: flex;
+  align-items: center;
+  width: 60.6694rem;
+  height: 3.6rem;
+}
+
+.enter-your-name-ybM {
+  white-space: nowrap;
+  flex-shrink: 0;
+  margin-right: 28.4694rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #a1a0a1;
+  font-family: Poppins, "Source Sans Pro";
+}
+.your-email-address-7Sf {
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  color: #a1a0a1;
+  font-family: Poppins, "Source Sans Pro";
+  white-space: nowrap;
+  flex-shrink: 0;
+}
+
+.subject-rQF {
+  height: 3.6rem;
+  left: 29.8917rem;
+  top: 34.2272rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  line-height: 2;
+  white-space: nowrap;
+  width: 6.8rem;
+  position: absolute;
+  color: #a1a0a1;
+  font-family: Poppins, "Source Sans Pro";
+}
+.how-can-i-help-you-9eF {
+  line-height: 2;
+  white-space: nowrap;
+  width: 17.9rem;
+  position: absolute;
+  left: 29.8917rem;
+  top: 40.9254rem;
+  font-family: Poppins, "Source Sans Pro";
+  height: 3.6rem;
+  font-size: 1.8rem;
+  font-weight: 400;
+  color: #a1a0a1;
+}
+.any-questions-send-us-message-qGB {
+  color: #ffffff;
+  font-family: Poppins, "Source Sans Pro";
+  height: 6.4rem;
+  top: 13.5688rem;
+  font-size: 4.8rem;
+  font-weight: 600;
+  line-height: 1.3333333333;
+  white-space: nowrap;
+  width: 80.8rem;
+  position: absolute;
+  left: 31.55rem;
+}
+.auto-group-hnqx-KSF {
+  display: flex;
+  justify-content: center;
+  left: 62.5814rem;
+  font-size: 2rem;
+  white-space: nowrap;
+  width: 18.8372rem;
+  position: absolute;
+  border: solid 0.1rem #ffffff;
+  align-items: center;
+  box-sizing: border-box;
+  top: 49.401rem;
+  font-weight: 600;
+  color: #ffffff;
+  height: 6.2rem;
+  line-height: 1.5;
+  font-family: Poppins, "Source Sans Pro";
+}
+.auto-group-ttnf-m3M {
+  position: absolute;
+  left: 29.8917rem;
+  top: 31.6279rem;
+  border-top: solid 0.1rem #ffffff;
+  box-sizing: border-box;
+  width: 84.3224rem;
+  height: 0.1rem;
+}
+.line-2-4o9 {
+  position: absolute;
+  left: 29.8917rem;
+  top: 38.4573rem;
+  background-color: #ffffff;
+  width: 84.3224rem;
+  height: 0.1rem;
+}
+.line-3-zgo {
+  position: absolute;
+  left: 29.8917rem;
+  top: 45.3168rem;
+  background-color: #ffffff;
+  width: 84.3224rem;
+  height: 0.1rem;
+}
